@@ -1,0 +1,1 @@
+I recommend you check out the much more up-to-date https://github.com/vim-scripts/YankRing.vim
